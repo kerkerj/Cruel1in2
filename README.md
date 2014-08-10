@@ -17,3 +17,10 @@ Used third-party lib:
     1. [Reachability](https://github.com/tonymillion/Reachability)  
     2. [MBProgressHUD](https://github.com/jdg/MBProgressHUD)  
     3. [SwiftyJSON](https://github.com/lingoer/SwiftyJSON)  
+
+
+影片 demo: 
+
+[![demo](http://img.youtube.com/vi/0LHTY6M2i44/0.jpg)](http://www.youtube.com/watch?v=0LHTY6M2i44)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/0LHTY6M2i44?rel=0" frameborder="0" allowfullscreen></iframe>
