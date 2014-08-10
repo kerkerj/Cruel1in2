@@ -11,7 +11,7 @@
 另外 Library 有兩個是 objective-c 寫的，  
 透過邪門歪道(XD)把它 bridge 起來就可以給 swift 用了!!
 
-<img width=30% height=30% src="bridge" />
+<img width=30% height=30% src="bridge.png" />
 
 Used third-party lib:  
     1. [Reachability](https://github.com/tonymillion/Reachability)  
