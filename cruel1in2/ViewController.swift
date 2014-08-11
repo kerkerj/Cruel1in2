@@ -172,7 +172,7 @@ class ViewController: UIViewController {
             var randomNum1 = Int(Int(rand()) % maxNum)
             var randomNum2 = Int(Int(rand()) % maxNum)
             
-            if (ans[randomNum1].string == ans[randomNum2].string) {
+            while (ans[randomNum1].string == ans[randomNum2].string) {
                 randomNum2 = Int(Int(rand()) % maxNum)
             }
             
